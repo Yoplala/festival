@@ -131,6 +131,7 @@ header {
 
 #top-banner {
 	display: flex;
+	flex-direction: row-reverse;
 }
 
 .navbar {
