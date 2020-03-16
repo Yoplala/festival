@@ -38,6 +38,10 @@
 
 /*   ---===   General   ===---   */
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	background-image: url("images/fond.jpg");
     background-attachment: fixed;
