@@ -283,6 +283,9 @@ input {
 		border-bottom: 2px outset var(--accent-color);
 	} 
 
+.text {
+	text-shadow: 2px 2px 3px black;
+}
 
 #program {
 	display: grid;
