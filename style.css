@@ -109,6 +109,20 @@ a {
 	cursor: pointer;
 }
 
+h5 {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+	/* Source : https://gomakethings.com/hidden-content-for-better-a11y/#hiding-the-link
+	Permet de cacher proprement le titre, mais de le laisser lisible pour les assistants d'accessibilité.*/
+} 	
+
 /*   ---===   Header   ===---   */
 
 header {
@@ -280,12 +294,13 @@ input {
 
 	.read-more:hover + .text {
 		transform: scale(0.85);
-		border-bottom: 2px outset var(--accent-color);
+		border-right: 2px outset var(--accent-color);
 	} 
 
 .text {
 	text-shadow: 2px 2px 3px black;
 }
+
 
 #program {
 	display: grid;
