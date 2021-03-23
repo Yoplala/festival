@@ -13,3 +13,7 @@ Projet réalisé dans le cadre de ma formation "Développeur frontend" chez Open
 - Lister les fonctionnalités demandées par un client.
 - Rédiger les spécifications détaillées du projet.
 
+## Pistes d'amélioration
+
+- Accessibilité (contraste, focus)
+- Animations + lisses
