@@ -13,6 +13,7 @@ Projet réalisé dans le cadre de ma formation "Développeur frontend" chez Open
 - Lister les fonctionnalités demandées par un client.
 - Rédiger les spécifications détaillées du projet.
 
+Livrables : cahier des charges et prototype
 
 ## Apprentissage
 - CSS : variables, grilles, animations
