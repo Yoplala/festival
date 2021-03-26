@@ -1,7 +1,7 @@
 # festival
 One-page website for a festival | Site "one-page" pour un festival
 
-https://yoplala.github.io/festival/
+[Films de Plein Air](https://yoplala.github.io/festival/)
 
 ## Contexte
 
